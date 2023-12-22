@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Favorites Artists</string>
+
+    <string name="OS">Vocalista britanico de la banda: Bring Me The Horizon</string>
+    <string name="KQ">Vocalista americano de la banda: Slepping With Sirens</string>
+    <string name="BE">Cantautora americana de Indie Pop</string>
+    <string name="CL">Vocalista canadiense de la banda: Spiritbox</string>
+    <string name="JH">Cantante mexicano de Corridos/Regional Mexicano</string>
+    <string name="NC">Cantante mexicano de Corridos Tumbados/Regional Mexicano</string>
+
+</resources>
